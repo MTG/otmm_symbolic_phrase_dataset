@@ -5,7 +5,7 @@ This study presents a large machine-readable dataset of Turkish makam music scor
 
 Please refer to the following publication if you use this data in your research:
 
-M. K. Karaosmanoglu, B. Bozkurt, A. Holzapfel, N. D. Disiacik, A symbolic dataset of Turkish makam music phrases, Folk Music Analysis Workshop (FMA), Istanbul, 2014.
+> M. K. Karaosmanoglu, B. Bozkurt, A. Holzapfel, N. D. Disiacik, A symbolic dataset of Turkish makam music phrases, Folk Music Analysis Workshop (FMA), Istanbul, 2014.
 
 The refactored code for automatic phrase segmentation can be found [here](https://github.com/MTG/makam-symbolic-phrase-segmentation).
 
