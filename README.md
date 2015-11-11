@@ -9,5 +9,7 @@ M. K. Karaosmanoglu, B. Bozkurt, A. Holzapfel, N. D. Disiacik, A symbolic datase
 
 The dataset consists of 31362 phrases on a set of 480 scores of different compositions annotated by 3 experts. 
 
+The refactored code for automatic phrase segmentation can be found (here)[https://github.com/MTG/makam-symbolic-phrase-segmentation].
+
 For other deliverables of the paper please visit:
 http://www.rhythmos.org/shareddata/turkishphrases.html
