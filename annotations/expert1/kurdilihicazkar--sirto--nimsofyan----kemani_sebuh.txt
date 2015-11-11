@@ -1,4 +1,4 @@
-Sýra	Kod	Nota53	NotaAE	Koma53	KomaAE	Pay	Payda	Ms	LNS	Bas	Soz1	Offset
+SÄ±ra	Kod	Nota53	NotaAE	Koma53	KomaAE	Pay	Payda	Ms	LNS	Bas	Soz1	Offset
 1	54			0	0	0	0	0	0	0	suzinak@sol4	0
 2	9	Si4b1	B4b1	313	313	1	12	185	95	96	I.	0.1666667
 3	9	Do5	C5	318	318	1	12	185	95	96		0.3333333

@@ -1,4 +1,4 @@
-Sýra	Kod	Nota53	NotaAE	Koma53	KomaAE	Pay	Payda	Ms	LNS	Bas	Soz1	Offset
+SÄ±ra	Kod	Nota53	NotaAE	Koma53	KomaAE	Pay	Payda	Ms	LNS	Bas	Soz1	Offset
 1	9	Re4	D4	274	274	1	8	250	95	109		0.25
 2	9	Re5	D5	327	327	1	8	250	95	120		0.5
 3	9	Mi5b5	E5b5	331	331	1	24	83	95	96		0.5833333
