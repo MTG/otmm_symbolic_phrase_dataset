@@ -387,4 +387,3 @@ Sıra	Kod	Nota53	NotaAE	Koma53	KomaAE	Pay	Payda	Ms	LNS	Bas	Soz1	Offset
 386	9	Sol4	G4	296	296	1	4	606	95	96	.	52.9
 387	9			-1	-1	1	8	303	100	0		53
 388	53			0	0	0	0	0	0	0		53
-389	0	Es	Sus	-1	-1	0	0	0	100	0		53

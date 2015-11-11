@@ -314,7 +314,6 @@ Sıra	Kod	Nota53	NotaAE	Koma53	KomaAE	Pay	Payda	Ms	LNS	Bas	Soz1	Offset
 313	9			-1	-1	1	4	769	100	0		36
 314	53			0	0	0	0	0	0	0		36
 315	51			0	0	6	8	0	87	0	Yürüksemâî II	36
-316	9			-1	-1	0	0	0	0	0		36
 317	9	Sol5	G5	349	349	1	4	333	99	96	Gel 	36.33333
 318	9	La5	A5	358	358	1	8	167	95	96		36.5
 319	9	Si5b5	B5b5	362	362	1	16	83	99	96	de 	36.58333
