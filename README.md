@@ -9,5 +9,5 @@ Please refer to the following publication if you use this data in your research:
 
 The refactored code for automatic phrase segmentation can be found [here](https://github.com/MTG/makam-symbolic-phrase-segmentation).
 
-For other deliverables of the paper please visit:
+The latest release has some minor changes from the original training score dataset such as UTF-8 encoding and duplicate file removal. For the deliverables of the paper including the original training dataset please visit:
 http://www.rhythmos.org/shareddata/turkishphrases.html
