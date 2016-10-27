@@ -1,4 +1,4 @@
-# makam-symbolic-phrase-segmentation-dataset
+# otmm_symbolic_phrase_dataset
 __Data sets containing pieces in [SymbTr2](https://github.com/MTG/SymbTr) format segmented into phrases__
 
 This study presents a large machine-readable dataset of Turkish makam music scores segmented into phrases by experts of this music. The segmentation facilitates computational research on melodic similarity between phrases, and relation between melodic phrasing and meter, rarely studied topics due to unavailability of data resources. It consists of 31362 phrases on a set of 480 scores of different compositions annotated by 3 experts. 
