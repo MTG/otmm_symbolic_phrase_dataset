@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/45952799.svg)](https://zenodo.org/badge/latestdoi/45952799)
+[![DOI](https://zenodo.org/badge/45952799.svg)](https://zenodo.org/badge/latestdoi/45952799) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ff69b4.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # otmm_symbolic_phrase_dataset
 __Data sets containing pieces in [SymbTr2](https://github.com/MTG/SymbTr) format segmented into phrases__
